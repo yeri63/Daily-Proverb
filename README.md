@@ -3,7 +3,7 @@
   
 ![Screenshot of Daily Proverb](https://github.com/yeri63/Daily-Proverb/blob/master/proverbs.png)
 </div>
-<p>Here's a sample of some of the proverbs included...</p>
+<p>Here are a few examples...</p>
 
 Proverb | Reason
 :--      | :--
