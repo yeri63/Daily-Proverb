@@ -1,7 +1,7 @@
 # Daily Proverb
 <div align="center">
   
-![Screenshot of Daily Proverb](https://github.com/yeri63/Daily-Proverb/blob/master/proverbs.png)
+![Screenshot of Daily Proverb](proverbs.png)
 </div>
 <p>A proverb is a short, memorable, and common saying that expresses a practical truth, moral lesson, or piece of traditional wisdom based on everyday experience.</p>
 <p>They are usually brief and structured so that they can be easily recalled. Many use everyday analogies, contrasts, or imagery to explain larger life concepts. They help us capture social experiences, wit, and values passed down through generations.</p>
